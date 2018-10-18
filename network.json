@@ -3,26 +3,12 @@
         "agarge"
     ],
     "created_at": "2018-10-18 15:13:04",
-    "edges": [
-        {
-            "ports": [
-                {
-                    "input": "raw_data",
-                    "type": "csv"
-                }
-            ],
-            "source": "raw_data.csv",
-            "target": "clean.R"
-        }
-    ],
+    "edges": [],
     "nodes": [
-        {
-            "name": "raw_data.csv"
-        },
         {
             "name": "clean.R"
         }
     ],
-    "updated_at": "2018-10-18 15:13:17",
+    "updated_at": "2018-10-18 15:13:27",
     "url": "https://github.com/fall2018-saltz/hw8"
 }
