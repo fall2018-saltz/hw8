@@ -6,9 +6,14 @@
     "edges": [],
     "nodes": [
         {
-            "name": "clean.R"
+            "assigned_to": "agarge",
+            "name": "clean.R",
+            "task_status": "in progress"
+        },
+        {
+            "name": "HotelSizePlot.png"
         }
     ],
-    "updated_at": "2018-10-18 15:13:27",
+    "updated_at": "2018-10-18 17:36:37",
     "url": "https://github.com/fall2018-saltz/hw8"
 }
