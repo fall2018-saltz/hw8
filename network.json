@@ -3,12 +3,41 @@
         "agarge"
     ],
     "created_at": "2018-10-18 15:13:04",
-    "edges": [],
-    "nodes": [
+    "edges": [
         {
-            "name": "clean.R"
+            "ports": [
+                {
+                    "output": "state_map",
+                    "type": "png"
+                }
+            ],
+            "source": "clean.R",
+            "target": "StateMap.png"
+        },
+        {
+            "ports": [
+                {
+                    "output": "hotel_size_plot",
+                    "type": "png"
+                }
+            ],
+            "source": "clean.R",
+            "target": "HotelSize.png"
         }
     ],
-    "updated_at": "2018-10-18 15:13:27",
+    "nodes": [
+        {
+            "assigned_to": "agarge",
+            "name": "clean.R",
+            "task_status": "in progress"
+        },
+        {
+            "name": "StateMap.png"
+        },
+        {
+            "name": "HotelSize.png"
+        }
+    ],
+    "updated_at": "2018-10-18 18:26:15",
     "url": "https://github.com/fall2018-saltz/hw8"
 }
