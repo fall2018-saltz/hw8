@@ -13,6 +13,16 @@
             ],
             "source": "clean.R",
             "target": "StateMap.png"
+        },
+        {
+            "ports": [
+                {
+                    "output": "hotel_size_plot",
+                    "type": "png"
+                }
+            ],
+            "source": "clean.R",
+            "target": "HotelSize.png"
         }
     ],
     "nodes": [
@@ -28,6 +38,6 @@
             "name": "HotelSize.png"
         }
     ],
-    "updated_at": "2018-10-18 18:25:54",
+    "updated_at": "2018-10-18 18:26:15",
     "url": "https://github.com/fall2018-saltz/hw8"
 }
