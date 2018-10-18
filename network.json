@@ -23,8 +23,11 @@
         },
         {
             "name": "StateMap.png"
+        },
+        {
+            "name": "HotelSize.png"
         }
     ],
-    "updated_at": "2018-10-18 18:23:53",
+    "updated_at": "2018-10-18 18:25:54",
     "url": "https://github.com/fall2018-saltz/hw8"
 }
